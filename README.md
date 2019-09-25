@@ -1,1 +1,1 @@
-# Trabalho 1 de Inteligência Artificial - UFMS
+# ESTE REPOSITÓRIO FOI MOVIDO PARA [AQUI](https://github.com/llpinokio/iat/tree/master/iat1)
